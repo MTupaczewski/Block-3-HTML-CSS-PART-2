@@ -29,7 +29,13 @@ body {
 	
 }
 
-#divLine {
+#divLine1 {
+	width:700px;
+	background : #999;
+	height: 1px;
+}
+
+#divLine2 {
 	width:700px;
 	background : #999;
 	height: 1px;
